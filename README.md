@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samyjj2022
+- 👋 Hi, I’m @Samy
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Programing
 - 💞️ I’m looking to collaborate on ...
